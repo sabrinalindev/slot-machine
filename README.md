@@ -1,9 +1,9 @@
 # Slot Machine
-- Full Website: https://slot-machine-rc-09fb.vercel.app/
+- Full Website: https://slot-machine-omega-sepia.vercel.app/
 - This is how it looks like:
-![Project Logo](/slot-machine/img/slot_machine.jpeg)
-![Project Logo](/slot-machine/img/youlost.jpeg)
-![Project Logo](/slot-machine/img/jackpot.jpeg)
+![Slot Machine](/img/slot_machine.jpeg)
+![You Lost](/img/youlost.jpeg)
+![Jackpot](img/jackpot.jpeg)
 
 
 
