@@ -1,0 +1,51 @@
+
+
+/* body {
+  background: url('../img/header.png') no-repeat center center fixed;
+  background:cover;
+} */
+
+.header{
+    text-align: center;
+    font-family: "Monoton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.balance, #message {
+  font-family: "Bitcount Prop Double Ink", system-ui;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "CRSV" 0.5,
+    "ELSH" 0,
+    "ELXP" 0,
+    "SZP1" 0,
+    "SZP2" 0,
+    "XPN1" 0,
+    "XPN2" 0,
+    "YPN1" 0,
+    "YPN2" 0;
+}
+
+
+.slot-machine-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    /* height: 100vh; */
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-around;
+}
+
+
+.slot-machine {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-around;
+}
+

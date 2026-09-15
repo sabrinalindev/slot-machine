@@ -3,18 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&family=Gelasio:ital,wght@0,400..700;1,400..700&family=Lilita+One&family=Monoton&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Rubik+Spray+Paint&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bitcount+Prop+Double+Ink:wght@100..900&family=DynaPuff:wght@400..700&family=Gelasio:ital,wght@0,400..700;1,400..700&family=Lilita+One&family=Monoton&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Rubik+Spray+Paint&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
     <title>Document</title>
 </head>
 <body>
-    
+    <section class="header">
+        <h1>Slot Machine</h1>
+    </section>
     <!-- for the slot machine display -->
     <section class="slot-machine-container">
-        <div id="money-display"></div>
+        <section class = "balance">
+
+        <p>You have $1,000 to begin with:</p>
+        <p>Now you have:</p><div id="money-display"></div>
+        
+        </section>
+        
         <section class="bet-control">
 
-            <button class="bet-btn" id="bet-min">Min</button>
-            <button class="bet-btn" id="bet-max">Max</button>
+            <button class="bet-btn" id="bet-min">Min bet: $5 </button>
+            <button class="bet-btn" id="bet-max">Max bet:$50</button>
             <button class="bet-btn" id="reset">Reset</button>
             
         </section>

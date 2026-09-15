@@ -1,6 +1,11 @@
 # Slot Machine
 - Full Website: https://slot-machine-rc-09fb.vercel.app/
-- Live Demo:![demo vide](./img/SlotMachine.gif)
+- This is how it looks like:
+![Project Logo](/slot-machine/img/slot_machine.jpeg)
+![Project Logo](/slot-machine/img/youlost.jpeg)
+![Project Logo](/slot-machine/img/jackpot.jpeg)
+
+
 
 ### How it is made:
 #### Tech Used:HTML,CSS and JavaScript

@@ -1,6 +1,6 @@
 
 let cash = 1000;
-const symbols = ["A","B","C","D","E"];
+const symbols = ["❤️","🍒","🍋","🍊","🍇"];
 
 const maximum = document.getElementById('bet-max')
 const minimum = document.getElementById('bet-min')
